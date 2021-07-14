@@ -163,8 +163,8 @@ body{
     justify-content: center;
     align-items: center;
     margin-top: 158px;
-    margin-left: 475px;
-    margin-bottom: 90px;
+    margin-left: 450px;
+    margin-bottom: 15%;
     width: 483.87px;
     height: 213px;
 }
@@ -177,17 +177,17 @@ body{
     display: flex;
     flex-direction: row;
     align-items: flex-start;
+    justify-content: space-between;
+    margin-left: 31%;
     width: 170px;
     height: 32px;
 }
 .social-icon img{
     width: 32px;
     height: 32px;
-    justify-content: space-evenly
-    flex-direction: row
-    margin-left: 5, 5px, 125px, 5px;
 }
 #copyright{
+    font-family: 'Poppins', sans-serif;
     font-size: 18px;
     line-height: 24px;
     margin-left: 120px;
